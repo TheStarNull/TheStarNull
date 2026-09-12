@@ -20,7 +20,7 @@
 
 ## 📦 一些小项目
 
-- [项目A](https://github.com/TheStarNull/comment-translator)：用 TypeScript 写的翻译工具，目前比较完善啦
+- [comment-translator](https://github.com/TheStarNull/comment-translator)：用 TypeScript 写的翻译工具，目前比较完善啦
 
 ## 📫 联系我
 
