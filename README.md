@@ -1,4 +1,4 @@
-# TheStarNull
+# TheStarNull / 星夜
 
 ## About Me 👋
 
@@ -89,8 +89,8 @@
   <img src="https://streak-stats.demolab.com/?user=TheStarNull&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
 </p>
 
-## Visitor Count
+### Visitor Count
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheStarNull&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&abbreviated=true" alt="Visitor Count" />
+  <img src="https://count.getloli.com/@TheStarNull?theme=gelbooru&padding=7&scale=1" alt="" />
 </div>
