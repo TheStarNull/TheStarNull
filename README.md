@@ -74,6 +74,7 @@
 
 - 邮箱：ningleqing@gmail.com / 3555738251@qq.com
 - GitHub：https://github.com/TheStarNull
+- QQ: 3555738251 && 技术交流群（群主不是我）：315963247
 
 ## Stats
 
@@ -91,5 +92,5 @@
 ## Visitor Count
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheStarNull&style=flat-square&label=Visitors" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=TheStarNull&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </div>
