@@ -78,8 +78,10 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheStarNull&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&cache_seconds=86400" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStarNull&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=10&cache_seconds=86400" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheStarNull&theme=tokyonight" width="90%" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheStarNull&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheStarNull&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
