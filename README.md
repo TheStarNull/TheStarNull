@@ -78,9 +78,17 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheStarNull&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStarNull&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheStarNull&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&cache_seconds=86400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStarNull&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=10&cache_seconds=86400" height="180" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TheStarNull&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheStarNull&style=flat-square" alt="visitor" />
+</div>
 
 ## Visitor Count
 
