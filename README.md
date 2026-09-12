@@ -6,7 +6,8 @@
 - 平时喜欢写代码，偶尔做一些小项目。
 - 主要接触 TypeScript / JavaScript、Java / Android、C / C++、Python。
 - 对开发工具、自动化脚本感兴趣，也喜欢研究 Minecraft Bedrock Edition 模组开发。
-- 日常开发主要使用 **Windows** 系统。
+- 日常开发主要使用 **Linux** 系统。
+- 忠诚的命令行使用者
 
 ## What I'm Doing
 
@@ -14,7 +15,7 @@
 - 学习并练习不同编程语言。
 - 尝试把一些新的想法做成可以运行的小工具。
 - 持续提升代码能力和项目经验。
-- 不定期分享 MCBE 模组或脚本小工具。
+- 不定期分享 MCBE 模组或脚本小工具（随机日期哦）。
 
 ## Tech Stack
 
