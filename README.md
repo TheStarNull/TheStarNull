@@ -86,12 +86,8 @@
   <img src="https://streak-stats.demolab.com/?user=TheStarNull&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheStarNull&style=flat-square" alt="visitor" />
-</div>
-
 ## Visitor Count
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheStarNull&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=TheStarNull&style=flat-square&label=Visitors" alt="Visitor Count" />
 </div>
