@@ -92,5 +92,5 @@
 ## Visitor Count
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheStarNull&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=TheStarNull&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&abbreviated=true" alt="Visitor Count" />
 </div>
