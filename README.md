@@ -12,6 +12,7 @@
 ## What I'm Doing
 
 - 开发并维护 [comment-translator](https://github.com/TheStarNull/comment-translator)：一个专门翻译 JSDoc 和代码注释的命令行工具，支持 JavaScript / TypeScript 等文件，通过 Google Translate API 输出翻译后的代码。
+- 也在开发 [SpawnModBE](https://github.com/TheStarNull/SpawnModBE)：一个用 TypeScript 生成 Minecraft Bedrock Edition (MCBE) 模组的**代码生成器框架**，支持物品 / 配方 / 战利品表 / 实体 / 方块 / 交易表等模块，并会自动打包成 `.mcaddon` / `.mcpack`。
 - 学习并练习不同编程语言。
 - 尝试把一些新的想法做成可以运行的小工具。
 - 持续提升代码能力和项目经验。
@@ -62,7 +63,16 @@
   </tr>
 </table>
 
-## Featured Project
+## Featured Projects
+
+### [SpawnModBE](https://github.com/TheStarNull/SpawnModBE)
+
+一个用 **TypeScript** 生成 **Minecraft Bedrock Edition (MCBE) 模组**的代码生成器框架。不再是"运行时模组"，而是用声明式配置一键产出规范合法的 addon：
+
+- 自动生成 `manifest.json`（资源包 + 行为包），确定性 UUID 池，零依赖 ZIP 打包（`.mcpack` / `.mcaddon`）
+- 内置生成器：物品、工具/护甲、配方（有序/无序/熔炉/酿造）、战利品表、村庄交易表、实体、方块（含 states/traits/permutations）、动态模型、帧序列动画、方块纹理动画等
+- 链式 `.setXxx()` API，方便模块互相引用（如方块挂战利品表）
+- 中文文档完善，48+ 冒烟测试
 
 ### [comment-translator](https://github.com/TheStarNull/comment-translator)
 
